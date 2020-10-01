@@ -50,7 +50,14 @@ namespace TomLonghurst.AzureAD.TokenValidator
                 ValidIssuer = openIdConfiguration.Issuer
             };
 
-            return tokenValidator.ValidateToken(accessToken, validationParameters, out _);
+            try
+            {
+                return tokenValidator.ValidateToken(accessToken, validationParameters, out _);
+            }
+            catch (SecurityTokenValidationException)
+            {
+                return null;
+            }
         }
 
         private static string GetAccessToken(string authorizationHeader)
