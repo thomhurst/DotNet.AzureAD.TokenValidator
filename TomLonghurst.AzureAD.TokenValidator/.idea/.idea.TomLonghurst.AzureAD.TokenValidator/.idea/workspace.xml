@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a79c2363-9d5c-4d58-8c52-e2cf2523f836" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TomLonghurst.AzureAD.TokenValidator.UnitTests/AADTokenValidatorTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TomLonghurst.AzureAD.TokenValidator/AADSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TomLonghurst.AzureAD.TokenValidator/AADTokenBaseValidator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TomLonghurst.AzureAD.TokenValidator/AADTokenValidator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TomLonghurst.AzureAD.TokenValidator/Extensions/StringExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TomLonghurst.AzureAD.TokenValidator/IAADSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TomLonghurst.AzureAD.TokenValidator/IAADTokenValidator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TomLonghurst.AzureAD.TokenValidator/V1/AADTokenV1Validator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TomLonghurst.AzureAD.TokenValidator/V1/IAADTokenV1Validator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TomLonghurst.AzureAD.TokenValidator/V2/AADTokenV2Validator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TomLonghurst.AzureAD.TokenValidator/V2/IAADTokenV2Validator.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TomLonghurst.AzureAD.TokenValidator.UnitTests/AADTokenValidatorTests.cs" />
+        <option value="$PROJECT_DIR$/TomLonghurst.AzureAD.TokenValidator/Extensions/StringExtensions.cs" />
+        <option value="$PROJECT_DIR$/TomLonghurst.AzureAD.TokenValidator/AADTokenBaseValidator.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iGs3CApPKSi2UVa6y6dOwHhnBO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Functions" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a79c2363-9d5c-4d58-8c52-e2cf2523f836" name="Default Changelist" comment="" />
+      <created>1601545062383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601545062383</updated>
+      <workItem from="1601545077077" duration="326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4392" y="251" key="Rider.ProjectTemplateDialog.Size" timestamp="1601545197824">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4392" y="251" key="Rider.ProjectTemplateDialog.Size/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1601545197824" />
+    <state x="4402" y="237" width="796" height="566" key="find.popup" timestamp="1601545465052">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4402" y="237" width="796" height="566" key="find.popup/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1601545465052" />
+  </component>
+</project>
